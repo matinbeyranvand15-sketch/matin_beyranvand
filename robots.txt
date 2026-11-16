@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matinbeyranvand15-sketch.github.io/matin_beyranvand/sitemap.xml
